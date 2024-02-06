@@ -107,6 +107,9 @@ body {
   }
 
   .title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     max-width: 46%;
     margin-bottom: 3rem;
   }
